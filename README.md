@@ -1,2 +1,5 @@
-# minor_project
- EDA of GDP per Capita Between 1960 and 2021
+pip install numpy pandas matplotlib streamlit plotly seaborn folium plotly pillow nitk textblob requests
+
+
+<!-- To run the app type -->
+streamlit run app.py

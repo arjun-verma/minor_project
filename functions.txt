@@ -1,0 +1,132 @@
+Line Chart By Years
+
+lineplot_subplots
+lineplot_top_subplots
+lineplot_bottom_subplots
+
+Pie Chart By Years
+
+pieplot_subplots
+pieplot_top_subplots
+pieplot_bottom_subplots
+
+Box Chart By Years
+
+boxplot_subplots
+boxplot_top_subplots
+boxplot_bottom_subplots
+
+Scatter Chart By Years
+
+scatterplot_subplots
+scatterplot_top_subplots
+scatterplot_bottom_subplots
+
+Heatmap Chart By Years
+
+heatmap_subplots
+
+Custom Charts By Years
+
+custom_lineplot
+custom_pieplot
+custom_boxplot
+custom_scatterplot
+
+Charts By Country
+
+country_lineplot
+country_boxplot
+country_scatterplot
+
+Charts By Decades
+
+decade_lineplot
+decade_pieplot
+decade_boxplot
+decade_scatterplot
+
+'Analysis - ',
+
+if menu == options[0]:
+if menu == options[1]:
+if menu == options[2]:
+if menu == options[3]:
+if menu == options[4]:
+if menu == options[5]:
+if menu == options[6]:
+if menu == options[7]:
+if menu == options[8]:
+if menu == options[9]:
+if menu == options[10]:
+if menu == options[11]:
+
+st.title("")
+st.header("")
+st.subheader("")
+st.write("")
+
+    cols = ['', '', '']
+    choice = st.selectbox("select a columns", cols)
+
+    if choice == cols[0]:
+        st.subheader("")
+        st.write("")
+    if choice == cols[1]:
+        st.subheader("")
+        st.write("")
+    if choice == cols[2]:
+        st.subheader("")
+        st.write("")
+
+
+    cols = ['', '', '', '']
+    choice = st.selectbox("select a columns", cols)
+
+    if choice == cols[0]:
+        st.subheader("")
+        st.write("")
+    if choice == cols[1]:
+        st.subheader("")
+        st.write("")
+    if choice == cols[2]:
+        st.subheader("")
+        st.write("")
+    if choice == cols[3]:
+        st.subheader("")
+        st.write("")
+
+
+# ##########################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+pip install numpy pandas matplotlib streamlit plotly seaborn folium plotly pillow nitk textblob requests
